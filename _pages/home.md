@@ -8,8 +8,6 @@ permalink: /
 
 Welcome to the Choi Lab at the University of Kansas! We are part of the Departments of Ecology and Evolutionary biology.
 
-**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">

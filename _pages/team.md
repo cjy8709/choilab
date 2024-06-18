@@ -1,196 +1,58 @@
 ---
-title: "Allan Lab - Team"
+title: "Choi Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Choi Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<img src = "{{ site.url}}{{ site.baseurl}}/images/Team/JYChoi.jpeg" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
+### Jae Young Choi (PI)
 
+Jae is an Assistant Professor in Department of Ecology and Evolutionary Biology at the University of Kansas. He received his Ph.D. from Cornell University and was a postdoc at New York University. Jae is interested in combining population and functional genomics to understand the evolution and function of the natural variation observed within plant populations.  
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Email: jaeyoung.choi@ku.edu<br>
+[Curriculum Vitae]({{ site.url}}{{ site.baseurl}}/docs/choi-curriculum-vitae-jan_2024.pdf){:target="_blank"}
+<br><br><br>
 
-## Staff
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+<img src = "{{ site.url}}{{ site.baseurl}}/images/Team/SKumawat.jpeg" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
+### Surbhi Kumawat (Postdoctoral researcher)
 
-{% assign even_odd = number_printed | modulo: 2 %}
+Surbhi received her Ph.D. from Panjab University studying the bottle gourd (Lagenaria siceraria) and conducted plant phenomics study to investigate the effects of silicon supplementation in presence of heavy metal stress. She is a plant functional geneticist who combines quantitative genetics and genome editing to understand the molecular basis of plant traits. Check out a recent profile of Surbhi from 
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+Email: surbhi@ku.edu<br>
+[Curriculum Vitae]({{ site.url}}{{ site.baseurl}}/docs/surbhiresume.pdf){:target="_blank"}
+<br><br><br><br>
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
+<img src = "{{ site.url}}{{ site.baseurl}}/images/Team/AShametov.jpeg" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; margin-bottom: 50px;" />
+### Askhan Shametov (Graduate student)
+Khan is a Ph.D. graduate student in the Department of Ecology and Evolutionary Biology. He received a MSc from the University of Minnesota. He is interested in understanding the genomic basis of ecological and morphological diversification of Metrosideros across the Hawaiian islands. Ultimately interested in elucidating the evolutionary mechanisms of adaptive radiation allows us to understand how biological diversity arise and promote sustainable conservation strategies. 
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+Contact: a269s268@ku.edu<br>
+[Curriculum Vitae]({{ site.url}}{{ site.baseurl}}/docs/askhan-shametov_cv23.pdf){:target="_blank"}
+<br><br><br>
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
+<img src = "{{ site.url}}{{ site.baseurl}}/images/Team/JCortez.jpeg" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
+### Joyce Cortez (Undergraduate student)
+Joyce is a undergraduate student majoring in Ecology, Evolution, and Organismal Biology (BS) and Environmental Studies (BS). Joyce is currently working at the Choi Lab as part of the KU Center for Undergraduate Research program. Joyce is researching the phenotypic consequence of telomeric variation in Monkeyflowers.
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
+Contact: joycecortez@ku.edu
+<br><br><br><br><br><br>
 
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
+<img src = "{{ site.url}}{{ site.baseurl}}/images/KULogo.png" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
+### Kate Hirschfeld (Undergraduate student)
 
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
+<br><br><br><br><br><br><br>
 
-  </ul>
-</div>
+<img src = "{{ site.url}}{{ site.baseurl}}/images/KULogo.png" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
+### Christine Nguyen (Undergraduate student)
 
-{% assign number_printed = number_printed | plus: 1 %}
+<br><br><br><br><br><br><br>
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+## Lab alumni
 
-{% endfor %}
+Stephanie Sage: Lab technician 2023-2024
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-
-
-## Master and Bachelor Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-## Alumni
-
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<br><br><br><br>
