@@ -9,9 +9,9 @@
 title: The Choi Lab
 email: jaeyoung.choi@ku.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Website of Choi lab at University of Kansas.
+  Website of Choi lab in the Department of Ecology and Evolutionary Biology at the University of Kansas.
 baseurl: ""
-url: 'http://localhost:4000/'
+url: ''
 
 include:
   - .htaccess
