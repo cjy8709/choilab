@@ -20,7 +20,7 @@ Email: jaeyoung.choi@ku.edu<br>
 <img src = "{{ site.url}}{{ site.baseurl}}/images/Team/SKumawat.jpeg" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
 ### Surbhi Kumawat (Postdoctoral researcher)
 
-Surbhi received her Ph.D. from Panjab University studying the bottle gourd (Lagenaria siceraria) and conducted plant phenomics study to investigate the effects of silicon supplementation in presence of heavy metal stress. She is a plant functional geneticist who combines quantitative genetics and genome editing to understand the molecular basis of plant traits. Check out a recent profile of Surbhi from 
+Surbhi received her Ph.D. from Panjab University studying the bottle gourd (Lagenaria siceraria) and conducted plant phenomics study to investigate the effects of silicon supplementation in presence of heavy metal stress. She is a plant functional geneticist who combines quantitative genetics and genome editing to understand the molecular basis of plant traits. Check out a recent profile of Surbhi from ASPB on the [25 Most Inspiring Women in Plant Biology](https://blog.aspb.org/25-inspiring-women-in-plant-biology/){:target="_blank"}
 
 Email: surbhi@ku.edu<br>
 [Curriculum Vitae]({{ site.url}}{{ site.baseurl}}/docs/surbhiresume.pdf){:target="_blank"}
