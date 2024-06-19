@@ -25,8 +25,8 @@ Evolution meeting 2022 talk on Hawaiian Metrosideros genomics: [link](https://ww
 ### Telomere variation and life history evolution
 
 <table class="image" align="left" >
-<caption style="margin-top: -80px" >Coevolution within the TERT-TR complex is a major interest of our group.</caption>
-<td><tr><img src = "{{ site.url}}{{ site.baseurl}}/images/ResearchPage/TertTR.jpeg" class="img-responsive" width = "45%" style="border-radius:0%; float: left; margin-bottom: 80px" /></tr></td>
+<caption style="margin-top: -100px" >Coevolution within the TERT-TR complex is a major interest of our group.</caption>
+<td><tr><img src = "{{ site.url}}{{ site.baseurl}}/images/ResearchPage/TertTR.jpeg" class="img-responsive" width = "45%" style="border-radius:0%; float: left; margin-bottom: 100px" /></tr></td>
 </table>
 
 Structural variations (SVs) are large complicated sequence changes across the genome. Its evolutionary significance is largely elusive due to the difficulties of its detection. Our research focuses on detecting and studying the evolutionary consequence of SVs, by applying state-of-the-art genome sequencing technology and collecting phenotypic data from the field and the lab.
@@ -35,7 +35,8 @@ One particular SV within the chromosome are those found in the telomere. Telomer
 
 Our previous research has discovered plant telomeres are a target of selection and confers adaptive benefits in specific life history or ecological conditions. Importantly the study suggests telomeres are novel genetic source of adaptive traits in plants, emphasizing chromosome structures as understudied genetic variations of plant ecological diversification. Our research aims to understand the molecular link between flowering and telomere structure in plants, to understand the biological basis of chromosome structure and life history trait evolution.
   
-Related work: Choi et al. 2021. The Plant Cell; Choi et al. 2020. Genome Biol
+Related work: [Kumawat et al. 2023. bioRxiv](https://www.biorxiv.org/content/10.1101/2023.12.06.568249v1){:target="_blank"}; [Choi et al. 2021. The Plant Cell](https://pubmed.ncbi.nlm.nih.gov/33580702/){:target="_blank"}
+TAGC 2024 talk on Mimulus telomere evolution: [link](https://youtu.be/rPXR_-_w3mM){:target="_blank"}
 <br><br>
 
 ### Developing and applying genomic techniques for evolutionary research
@@ -47,4 +48,4 @@ Related work: Choi et al. 2021. The Plant Cell; Choi et al. 2020. Genome Biol
 
 Long read sequencing is revolutionary for evolutionary biology research. Generating high quality genomic resources is a reachable goal for non-model organisms. Our research utilizes state-of-the-art genomic sequencing technologies (in particular nanopore sequencing) to generate high-quality reference genome as a basis for studying the genome-wide variations of our plants of interest. We are also interested in using nanopore sequencing to develop and implement techniques that takes a deeper inference of the genomic variation. One such example is PoreC sequencing which is a long read sequencing based chromosome contact assay. Finally we are focused on developing bioinformatic methods to use the long read sequencing data or other genome-wide variation data to study the evolutionary basis of adaptation and speciation.
 
-Related work: Choi et al. 2022. Biorxiv; Choi et al. 2021. PNAS; Choi et al. 2020. Genome Biol
+Related work: [Choi et al. 2022. Biorxiv](https://www.biorxiv.org/content/10.1101/2022.07.06.498888v1){:target="_blank"}; [Choi et al. 2021. PNAS](https://pubmed.ncbi.nlm.nih.gov/34497122/){:target="_blank"}; [Choi et al. 2020. Genome Biol](https://pubmed.ncbi.nlm.nih.gov/32019604/){:target="_blank"}
