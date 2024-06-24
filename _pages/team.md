@@ -34,6 +34,14 @@ Contact: a269s268@ku.edu<br>
 [Curriculum Vitae]({{ site.url}}{{ site.baseurl}}/docs/askhan-shametov_cv23.pdf){:target="_blank"}
 <br><br><br>
 
+<img src = "{{ site.url}}{{ site.baseurl}}/images/Team/LNguyen.jpg" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; margin-bottom: 50px;" />
+### Lynn Nguyen (Graduate student)
+Lynn is a M.A. graduate student in the Department of Ecology and Evolutionary Biology. She received a B.S. in Biology and Data Analytics from Denison University. She is interested in studying telomere variations and plant evolution from the genomic perspective. 
+
+Contact: l233n428@home.ku.edu<br>
+[Curriculum Vitae]({{ site.url}}{{ site.baseurl}}/docs/NguyenLinh-CV.pdf){:target="_blank"}
+<br><br><br>
+
 <img src = "{{ site.url}}{{ site.baseurl}}/images/Team/JCortez.jpeg" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
 ### Joyce Cortez (Undergraduate student)
 Joyce is a undergraduate student majoring in Ecology, Evolution, and Organismal Biology (BS) and Environmental Studies (BS). Joyce is currently working at the Choi Lab as part of the KU Center for Undergraduate Research program. Joyce is researching the phenotypic consequence of telomeric variation in Monkeyflowers.
