@@ -13,7 +13,7 @@ To inquire about potential postdoc opportunities, please email with a CV and a s
 
 I encourage potential postdocs to consider applying for independent funding and am happy to help develop project ideas for postdoc fellowships. Please reach out to write a fellowship together.
 
-**NEW OPENING!** As of July 13 2024 the lab is looking to hire a postdoctoral scholar. Please see following [link]({{ site.url}}{{ site.baseurl}}/docs/Ads/ChoiLab_KU_Postdoc_Recruitment_Ad.2024.pdf){:target="_blank"} for more detail and instructions for applying.
+**NEW OPENING!** We are looking to hire a NIH funded postdoctoral scholar position. Please see following [link]({{ site.url}}{{ site.baseurl}}/docs/Ads/ChoiLab_KU_Postdoc_Recruitment_Ad.2024.pdf){:target="_blank"} for more detail and instructions for applying.
 
 ## Prospective graduate students
 
