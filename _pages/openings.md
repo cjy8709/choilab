@@ -13,6 +13,8 @@ To inquire about potential postdoc opportunities, please email with a CV and a s
 
 I encourage potential postdocs to consider applying for independent funding and am happy to help develop project ideas for postdoc fellowships. Please reach out to write a fellowship together.
 
+**NEW OPENING!** As of July 13 2024 the lab is looking to hire a postdoctoral scholar. Please see following [link]({{ site.url}}{{ site.baseurl}}/docs/Ads/ChoiLab_KU_Postdoc_Recruitment_Ad.2024.pdf){:target="_blank"} for more detail and instructions for applying.
+
 ## Prospective graduate students
 
 Prospective graduate students can join the lab for a graduate degree (M.Sc. or Ph.D.) through the  Department of Ecology and Evolutionary Biology [graduate program](https://eeb.ku.edu/graduate-programs){:target="_blank"}. The prospective student must identify a faculty mentor [before applying](https://eeb.ku.edu/how-apply){:target="_blank"}. Prospective students can send an email with their CV and a description of your research interests (and how working with us would help you meet these interests).
