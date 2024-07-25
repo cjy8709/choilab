@@ -61,6 +61,7 @@ Contact: joycecortez@ku.edu
 
 ## Lab alumni
 
-Stephanie Sage: Lab technician 2023-2024
+Stephanie Sage: Lab technician (2023-2024)<br>
+Audrey Combs: Summer REU student (2024)<br>
 
 <br><br><br><br>
