@@ -14,7 +14,7 @@ permalink: /team/
 Jae is an Assistant Professor in Department of Ecology and Evolutionary Biology at the University of Kansas. He received his Ph.D. from Cornell University and was a postdoc at New York University. Jae is interested in combining population and functional genomics to understand the evolution and function of the natural variation observed within plant populations.  
 
 Email: jaeyoung.choi@ku.edu<br>
-[Curriculum Vitae]({{ site.url}}{{ site.baseurl}}/docs/choi-curriculum-vitae-jan_2024.pdf){:target="_blank"}
+[Curriculum Vitae]({{ site.url}}{{ site.baseurl}}/docs/Choi-Curriculum-Vitae-Aug_2024.pdf){:target="_blank"}
 <br><br><br>
 
 <img src = "{{ site.url}}{{ site.baseurl}}/images/Team/SKumawat.jpeg" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
@@ -35,8 +35,8 @@ Contact: a269s268@ku.edu<br>
 <br><br><br>
 
 <img src = "{{ site.url}}{{ site.baseurl}}/images/Team/LNguyen.jpg" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; margin-bottom: 50px;" />
-### Lynn Nguyen (Graduate student)
-Lynn is a M.A. graduate student in the Department of Ecology and Evolutionary Biology. She received a B.S. in Biology and Data Analytics from Denison University. She is interested in studying telomere variations and plant evolution from the genomic perspective. 
+### Linh Nguyen (Graduate student)
+Linh is a M.A. graduate student in the Department of Ecology and Evolutionary Biology. She received a B.S. in Biology and Data Analytics from Denison University. She is interested in studying telomere variations and plant evolution from the genomic perspective. 
 
 Contact: l233n428@home.ku.edu<br>
 [Curriculum Vitae]({{ site.url}}{{ site.baseurl}}/docs/NguyenLinh-CV.pdf){:target="_blank"}
@@ -62,6 +62,6 @@ Contact: joycecortez@ku.edu
 ## Lab alumni
 
 Stephanie Sage: Lab technician (2023-2024)<br>
-Audrey Combs: Summer REU student (2024)<br>
+Audrey Combs (Colorado College): Summer REU student (2024)<br>
 
 <br><br><br><br>
