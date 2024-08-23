@@ -23,15 +23,15 @@ Welcome to the Choi Lab at the University of Kansas! We are part of the Departme
             <p> Summer 2024 </p>
         </div>
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto2024Summer.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto2024Summer.jpeg" alt="Slide 2" />
             <p> Summer 2024 </p>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto2023Winter.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto2023Winter.jpeg" alt="Slide 3" />
             <p> Winter 2023 </p>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto2023Summer.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto2023Summer.jpeg" alt="Slide 4" />
             <p> Summer 2023 </p>
         </div>
     </div>
