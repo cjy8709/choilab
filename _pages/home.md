@@ -14,6 +14,7 @@ Welcome to the Choi Lab at the University of Kansas! We are part of the Departme
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
@@ -22,7 +23,7 @@ Welcome to the Choi Lab at the University of Kansas! We are part of the Departme
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto2024Summer2.jpeg" alt="Slide 1" />
             <p> Summer 2024 </p>
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/GroupPhoto2024Summer.jpeg" alt="Slide 2" />
             <p> Summer 2024 </p>
         </div>
