@@ -59,6 +59,21 @@ Contact: joycecortez@ku.edu
 
 <br><br><br><br><br><br><br>
 
+<img src = "{{ site.url}}{{ site.baseurl}}/images/KULogo.png" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
+### Cole Crenshow (Undergraduate student)
+
+<br><br><br><br><br><br><br>
+
+<img src = "{{ site.url}}{{ site.baseurl}}/images/KULogo.png" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
+### Thomas Bernas (Undergraduate student)
+
+<br><br><br><br><br><br><br>
+
+<img src = "{{ site.url}}{{ site.baseurl}}/images/KULogo.png" class="img-responsive" width = "20%" style="float: left; margin-right: 10px; " />
+### Minhee Koo (Undergraduate student)
+
+<br><br><br><br><br><br><br>
+
 ## Lab alumni
 
 Stephanie Sage: Lab technician (2023-2024)<br>
